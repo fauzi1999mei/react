@@ -1,0 +1,141 @@
+.App {
+ 
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  font-size: 25px;
+  
+
+}
+
+
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color:black;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(16px);
+  color: white;
+  
+  
+}
+
+.App-link {
+  color: #61dafb;
+}
+.center{
+  text-align: center;
+  border: dashed;
+}
+.left{
+  text-align: center;
+  border: dashed;
+}
+.desktop{
+
+}
+.git{
+  color: white;
+}
+.git:hover{
+  color: red;
+}
+table.tabel1{
+  border: 1px solid dashed;
+}
+.nav a{
+  font-size: 20px;
+  color : white;
+  float:left;
+  padding: 14px 26px;
+
+
+}
+.nava a{
+  font-size: 20px;
+  color :black;
+ 
+  padding: 14px 26px;
+
+}
+.ayam{
+  height: 600px;
+  width: 900px;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.gr{
+  height: 100px;
+  width: 100px;
+}
+h1{
+  font-style: italic;
+  text-decoration: underline;
+}
+h2{
+  font-style: italic;
+}
+
+img{
+  width: 150px;
+  height: 200px;
+}
+
+.Mywebsite{
+  text-align: center;
+}
+.mobile{
+
+}
+
+table,th,td{
+  text-align: center;
+  position: relative;
+  border: 1px solid black;
+  
+}
+ul{
+  position: relative;
+  text-align: center;
+  list-style-position: inside;
+}
+ol{
+  text-align: center;
+  list-style-position: inside;
+}
+a{
+  color: #0000FF;
+}
+a:hover{
+  color: red;
+}
+.fauzi{
+  background-color: rgb(170, 169, 169);
+}
+
+
+
+
+
